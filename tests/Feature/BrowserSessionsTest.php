@@ -15,7 +15,7 @@ class BrowserSessionsTest extends TestCase
         $this->actingAs($user = User::factory()->create());
 
         $response = $this->delete('/user/other-browser-sessions', [
-            'password' => 'password',
+            'password' => 'Pass@123',
         ]);
 
         $response->assertSessionHasNoErrors();
