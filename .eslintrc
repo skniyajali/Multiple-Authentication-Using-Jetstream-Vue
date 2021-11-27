@@ -1,0 +1,8 @@
+{
+    "plugins": [
+        "vue"
+      ],
+    "rules" : {
+        "template-curly-spacing": ["error", "never"]
+      }
+}
