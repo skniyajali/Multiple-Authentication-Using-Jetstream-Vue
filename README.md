@@ -1,5 +1,7 @@
 <h1 align="center"> Multiple Authentication Using Laravel-Jetstream With Inertia-Vue</h1>
 
+[![Laravel](https://github.com/skniyajali/Multiple-Authentication-Using-Jetstream-Vue/actions/workflows/laravel.yml/badge.svg?branch=main)](https://github.com/skniyajali/Multiple-Authentication-Using-Jetstream-Vue/actions/workflows/laravel.yml)
+
 ## About Jetstream-Inertia-Vue Multi-Auth
 
 It is a user-based multiple authentication system developed using Laravel Jetstream With Inertia and Vue. It has the same features of a single user of Jetstream like Login, Register, Email Verification, Forgot Password,  Two-Step Verification, API Services, Logout other browser session and delete user, etc. for administrator and user as well. 
