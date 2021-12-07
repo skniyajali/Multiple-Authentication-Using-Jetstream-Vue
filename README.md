@@ -1,6 +1,6 @@
 <h1 align="center"> Multiple Authentication Using Laravel-Jetstream With Inertia-Vue</h1>
 
-[![Laravel](https://github.com/skniyajali/Multiple-Authentication-Using-Jetstream-Vue/actions/workflows/laravel.yml/badge.svg?branch=main)](https://github.com/skniyajali/Multiple-Authentication-Using-Jetstream-Vue/actions/workflows/laravel.yml)
+[![Laravel](https://github.com/skniyajali/Multiple-Authentication-Using-Jetstream-Vue/actions/workflows/laravel.yml/badge.svg)](https://github.com/skniyajali/Multiple-Authentication-Using-Jetstream-Vue/actions/workflows/laravel.yml)
 
 ## About Jetstream-Inertia-Vue Multi-Auth
 
