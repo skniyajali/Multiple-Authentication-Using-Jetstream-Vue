@@ -19,12 +19,11 @@ trait PasswordValidationRules
             'string',
             new Password,
             'confirmed',
-            pass::min(8)
-                ->letters()
-                ->mixedCase()
-                ->numbers()
-                ->symbols()
-                ->uncompromised(2)
+            // pass::min(8)
+            //     ->letters()
+            //     ->mixedCase()
+            //     ->numbers()
+            //     ->symbols()
         ];
     }
 }

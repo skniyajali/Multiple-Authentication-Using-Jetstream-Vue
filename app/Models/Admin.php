@@ -21,7 +21,7 @@ class Admin extends Authenticatable implements MustVerifyEmail
     use HasConnectedAccounts;
 
 
-    protected $guard = 'admin';
+    // protected $guard = 'admin';
 
     /**
      * The attributes that are mass assignable.
